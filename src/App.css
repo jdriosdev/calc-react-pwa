@@ -12,6 +12,7 @@ body {
   color: white;
 }
 .wrapper {
+  width: 100vw;
   max-width: 420px;
   min-height: 100vh;
   margin: 0 auto;
