@@ -31,8 +31,8 @@ button {
 }
 
 button:active {
-  box-shadow: 
-    1px 1px 3px 1px #354052, 
+  box-shadow:
+    1px 1px 3px 1px #354052,
     -1px -1px 3px 1px #131a25;
 }
 
@@ -42,7 +42,7 @@ button:active {
 .operations button {
   background-color: #283345;
   width: 100px;
-  color:  rgb(253, 159, 18);
+  color:  #fd9f12;
 }
 .digits button {
   background-color: #283345;
